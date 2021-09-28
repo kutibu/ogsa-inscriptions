@@ -1,0 +1,9 @@
+{
+    "development": {
+      "username": "244095",
+      "password": "BkS[/Na/Kg_uU5Py",
+      "database": "ogs-inscriptions_coursesv2",
+      "host": "mysql-ogs-inscriptions.alwaysdata.net",
+      "dialect": "mysql"
+    }
+}
