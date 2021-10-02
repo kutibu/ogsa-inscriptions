@@ -33,6 +33,6 @@ sequelize
   });
 
 // Launch server
-server.listen(process.env.PORT || 3000, function() {
+server.listen(process.env.PORT, function() {
     console.log('Server en écoute :)');
 });
